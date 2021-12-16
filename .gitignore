@@ -1,0 +1,6 @@
+build
+onnx
+onnx-gpu
+onnxruntime-linux-x64-1.10.0
+onnxruntime-linux-x64-gpu-1.10.0
+*.onnx
